@@ -1,0 +1,1 @@
+javac -d universidad/WEB-INF/classes src/domain/Profesor.java src/domain/ProfesorFactory.java src/domain/ProfesorRepository.java src/domain/Grupo.java src/domain/GrupoFactory.java src/domain/GrupoRepository.java
